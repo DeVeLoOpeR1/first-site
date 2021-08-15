@@ -1,0 +1,30 @@
+body {
+    background-color: #F5FDB0;
+}
+hr {
+
+    border-style:none;
+    border-bottom-style: dotted;
+    border-color: #28FFBF;
+    width: 5%;
+    border-width: 10px;
+    padding: 15px;
+
+
+}
+img {
+    border-radius: 50%;
+    padding: 5px;
+    border:1px solid #28FFBF;
+}
+h1 , h2,h3 {
+    color:#28FFBF;
+}
+a {
+    color: #126d52;
+    text-decoration: none;
+
+}
+p, table,ul,form {
+    color: #104435;
+}
